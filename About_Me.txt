@@ -1,0 +1,23 @@
+CODEALPHA PYTHON INTERNSHIP
+Project Submission
+
+Candidate Information
+Name: ARUNA DEVI.S   Student ID: CA/DF1/115617
+Internship: CodeAlpha Python Internship
+Programming Language: Python
+
+Projects Submitted
+Project 1: Career Guide Chatbot
+Developed an interactive console-based Career Guide Chatbot that assists users in exploring various technology career paths. The application provides career-related information through a simple, menu-driven interface, making it easy for beginners to understand different domains in the field of technology.
+Project 2: AI Rescue Mission (Hangman Game)
+Designed and developed an interactive Hangman game using Python. The application allows users to guess hidden words with the help of hints while validating user inputs and tracking game progress. The project demonstrates logical thinking, user interaction, and problem-solving skills.
+Project 3: Smart Portfolio Analyzer
+Developed a Smart Portfolio Analyzer that enables users to manage stock investments efficiently. The application supports adding, removing, searching, saving, and loading stock records using CSV file handling. It automatically calculates investment value, current value, profit or loss, percentage change, and presents portfolio performance through graphical visualization using Matplotlib.
+
+Declaration
+I hereby declare that the projects included in this submission were completed as part of the CodeAlpha Python Internship. Each project has been successfully developed, tested, and organized for evaluation.
+I sincerely thank the CodeAlpha team for providing this valuable learning opportunity, which helped me strengthen my Python programming skills through practical project development.
+
+Submitted By
+Aruna Devi.S
+
